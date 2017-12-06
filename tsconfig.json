@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "outFile": "./src/main.js",
+        "module": "system",
+        "moduleResolution": "node",
+        "experimentalDecorators": true
+    }
+}
